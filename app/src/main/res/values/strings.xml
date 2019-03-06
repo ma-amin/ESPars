@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">سیستم خبره پارسی</string>
+
+    <string name="str_date_today">امروز</string>
+    <string name="str_date_yesterday">دیروز</string>
+    <string name="str_messages_share">اشتراک گذاری از طریق…</string>
+
+    <string name="action_delete">حذف</string>
+    <string name="action_copy">کپی</string>
+    <string name="action_share">اشتراک گذاری</string>
+    <string name="action_clear_history">پاک کردن تاریخچه گفتگو</string>
+
+    <string name="toast_post_error">سرور در حال بروزرسانی است.</string>
+    <string name="toast_copied_message">پیام‌ها کپی شدند!</string>
+    <string name="toast_close_main">برای خروج از برنامه یکبار دیگر کلید برگشت را بفشارید.</string>
+
+    <string name="tv_typing_status">فکرینگ</string>
+    <string name="tv_online_status">آنلاین</string>
+    <string name="tv_offline_status">در انتظار شبکه…</string>
+    <string name="tv_connect_status">در حال اتصال…</string>
+    <string name="tv_user_Ghool">چراغ جادو</string>
+    <string name="tv_your_name">شما</string>
+    <string name="tv_qus_main">حالشو داری شروع کنیم؟</string>
+    <string name="tv_newDialog">گفتگوی جدید</string>
+    <string name="tv_about">درباره ما</string>
+    <string name="tv_contact">تماس با ما</string>
+    <string name="tv_info_splash">غول چراغ جادو در خدمت شماست!</string>
+    <string name="tv_description_about"> پـروژه ساخت سيستم خبـره\n
+.:: مدیر پروژه آقای مهندس محمـد صـفري ::. \n
+بـرنامه‌نويـسی تحت انـدرويد محمـد اصغـرپـور \n
+بـرنامه‌نويـسی تحت وب عليـرضا پـرسم \n
+پژوهش و گردآوری داده‌ها حـسين فـرهناک \n
+نيـرو گـرفته از es pars</string>
+</resources>

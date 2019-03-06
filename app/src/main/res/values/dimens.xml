@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="mcab_toolbar_elevation">4dp</dimen>
+    <dimen name="mcab_default_content_inset">72dp</dimen>
+</resources>
